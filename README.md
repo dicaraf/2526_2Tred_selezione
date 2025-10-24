@@ -2,8 +2,7 @@
 
 1. Il programma legge due numeri e controlla se il primo è maggiore del secondo.
 2. L’utente inserisce la propria età e il programma dice se è maggiorenne (ovvero con età maggiore uguale a 18 anni)
-3. L’utente inserisce a quanti anni si può prendere la patente nello stato in cui si vive (in Italia a 18 anni ma in altri stati a 16, 17 o a 21),
-l’utente inserisce quanti anni ha; il programma risponde se l’utente può prendere la patente.
+3. L’utente inserisce a quanti anni si può prendere la patente nello stato in cui si vive (in Italia a 18 anni ma in altri stati a 16, 17 o a 21),l’utente inserisce quanti anni ha; il programma risponde se l’utente può prendere la patente.
 4. Il programma legge due numeri e controlla se il primo è multiplo del secondo.
 5.L’utente inserisce una temperatura in Celsius e il calcolatore la converte in Fahrenheit ed in Kelvin. Se la temperatura inserita è minore dello zero assoluto (-273,15), il calcolatore segnala un errore.
 Si ricordi che:
@@ -24,6 +23,4 @@ Un anno è bisestile se è divisibile per 4 ma non per 100, oppure se è divisib
 16. Scrivere un programma che legge un voto e dice se insufficiente o sufficiente e se è insufficiente distingue tra gravemente insufficiente (minore o uguale a 4) o insufficiente ovvero compreso tra 4 (escluso) e 6 (escluso).
 17. Scrivere un programma che legge i lati di un triangolo e dice se questo è un triangolo rettangolo.
 18. Scrivere un programma che legge 2 orari in ore minuti e secondi e dice quale viene prima dei due. (Si risolva l’esercizio senza trasformare tutto in secondi).
-19. Memorizzare il seme e il punteggio di due carte da poker. Dire quale delle carte vale di più.  Il valore di una carta da poker è dato in primo luogo dal punteggio e in caso di parità di punteggio dal seme.
-I punteggi in ordine decrescente sono {k,q,j,9,8,7,6,5,4,3,2,1}, i semi in ordine decrescente sono  {cuori, quadri, fiori, picche} per i semi memorizzare solo la lettera iniziale del seme.
-PS: l’ordine dei semi può essere ricordato grazie alla frase "come quando fuori piove" in cui le parole ricordano i nomi dei semi (cuori, quadri, fiori, picche).
+19. Memorizzare il seme e il punteggio di due carte da poker. Dire quale delle carte vale di più.  Il valore di una carta da poker è dato in primo luogo dal punteggio e in caso di parità di punteggio dal seme (i semi in ordine decrescente sono  {cuori, quadri, fiori, picche}).
